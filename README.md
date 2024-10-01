@@ -1,5 +1,10 @@
 # stg
-capture your screen and convert to gif, run main.py directly.
+Capture your screen and convert it to a gif, run main.py directly.
+
+Main functions:
+1. You can select the recording range
+2. Frame rate can be selected
+3. You can choose to play double-speed
 
 捕捉指定屏幕范围内的图像并转为gif, 直接运行 main.py 文件.
 
