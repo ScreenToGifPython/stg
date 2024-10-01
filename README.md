@@ -1,7 +1,7 @@
 # stg
-capture your screen and convert to gif
+capture your screen and convert to gif, run main.py directly.
 
-捕捉指定屏幕范围内的图像, 并转为gif
+捕捉指定屏幕范围内的图像并转为gif, 直接运行 main.py 文件.
 
 1. 可以选择录制范围
 2. 可以选择帧率
