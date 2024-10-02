@@ -24,7 +24,7 @@
 ```
 
 
-![UI演示](/Users/chenjunming/Desktop/stg/img/ui.png "UI演示")
+![UI演示](/img/ui.png "UI演示")
 
 
 # Screen Capture to GIF Converter
